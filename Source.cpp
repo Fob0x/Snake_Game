@@ -401,7 +401,7 @@ void theEnd()
 		std::cout << "#";
 	std::cout << std::endl;
 }
-//Gayìïëåé
+//gameìplay
 
 void Setup()
 {
