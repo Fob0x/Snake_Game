@@ -158,7 +158,7 @@ void SettingDraw()
 		std::cout << std::endl;
 	}
 
-	for (int y = 0; y < height - 6; y++)
+	for (int y = 0; y < height - 6; ++y)
 	{
 		for (int x = 0; x < width; x++)
 		{
@@ -401,7 +401,7 @@ void theEnd()
 		std::cout << "#";
 	std::cout << std::endl;
 }
-//gameìplay
+//gameplay
 
 void Setup()
 {
